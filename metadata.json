@@ -1,0 +1,6 @@
+{
+  "name": "CEYVANA ERP System",
+  "description": "Premium Ceylon Spices Manufacturing, Inventory, Sales, Accounting & AI Business Intelligence ERP System",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
